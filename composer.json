@@ -17,7 +17,7 @@
         "tecnickcom/tcpdf": "^6.3",
         "setasign/fpdi": "^2.0",
         "setasign/fpdf": "1.8.1",
-        "setasign/fpdi-protection": "^2.0",
+        "setasign/fpdi-protection": "^2.0"
     },
     "scripts": {
         "post-root-package-install": [
