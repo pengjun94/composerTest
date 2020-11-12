@@ -1,2 +1,2 @@
 <?php
-echo 'composerTest';
+echo 'composerTest1';
